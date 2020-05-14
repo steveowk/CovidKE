@@ -1,2 +1,2 @@
 # CovidKE
- Covid-19 Trackign Kenya
+ Covid-19 Tracking & models in Kenya
